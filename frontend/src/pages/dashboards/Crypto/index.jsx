@@ -1,6 +1,6 @@
 import { Col, Row } from 'react-bootstrap'
-import CryptoChart from './components/CryptoChart'
-import CryptoTopbar from './components/CryptoTopbar'
+import CryptoChart from './components/ForexChart'
+import CryptoTopbar from './components/ForexTopbar'
 
 import { PageBreadcrumb } from '@/components'
 const Crypto = () => {
